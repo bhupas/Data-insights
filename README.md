@@ -23,7 +23,6 @@ jupyter:
 
 ## Table of Content
 
-- [Table of Content](#table-of-content)
 - [About me](#about-me)
 - [Introduction](#introduction)
 - [Yearly changes in the number of pig exports](#yearly-changes-in-the-number-of-pig-exports)
