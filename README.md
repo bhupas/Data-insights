@@ -1,3 +1,26 @@
+---
+jupyter:
+  kernelspec:
+    display_name: base
+    language: python
+    name: python3
+  language_info:
+    codemirror_mode:
+      name: ipython
+      version: 3
+    file_extension: .py
+    mimetype: text/x-python
+    name: python
+    nbconvert_exporter: python
+    pygments_lexer: ipython3
+    version: 3.9.13
+  nbformat: 4
+  nbformat_minor: 0
+  vscode:
+    interpreter:
+      hash: 24fcbdf1af26fc7c0244a18a35e5627eaa4524134e0d8a76209ff69f0ef22a19
+---
+
 ## Table of Content
 
 - [Table of Content](#table-of-content)
