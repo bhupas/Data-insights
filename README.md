@@ -255,7 +255,7 @@ assess the supply chain dynamics and market trends in Poland, and adapt
 the export strategy accordingly to maintain a strong and competitive
 position in the market.
 
-#" Long term trend in pig exports over time
+## Long term trend in pig exports over time
 
 ```python
 df['transport_date'] = pd.to_datetime(df['transport_date'])
@@ -306,7 +306,7 @@ print(anomalies)
 
 PS-- My latop cannot calculate this i also tried to use google colab
 but it used all the ram and did not finish the calculation. Hopefully i
-can do this kind of calculation if i get hired at at your place.
+can do this kind of calculation if i get hired at  your place.
 
 ## Lets look at Seasonal trends in the data
 
